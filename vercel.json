@@ -7,7 +7,7 @@
   ],
   "rewrites": [
     {
-      "source": "/image.png",
+      "source": "/image.jpeg",
       "destination": "api/main.py"
     },
     {
